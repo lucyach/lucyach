@@ -1,4 +1,11 @@
-### Hi there 👋
+![Lucyach's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucyach&show_icons=true&theme=cobalt&count_private=true&hide=issues,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucyach&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+## About Me
+Hi, I'm Lucy. She/Her. I make small games and websites. I am a self-taught coder in high school. I started coding on Scratch, and I am experienced in Python, JavaScript, HTML+CSS, and Java. I also have experience in digital art, video and photo editing, 3D and 2D animation, and Wiki editing. Always learning new skills and languages. Contact me LucyA#0919 on Discord.
+
+
 
 <!--
 **lucyach/lucyach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
